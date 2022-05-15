@@ -1,0 +1,19 @@
+/* width */
+.tabmovie ::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+.tabmovie ::-webkit-scrollbar-track {
+  background: rgba(230, 226, 9, 0.356);
+}
+
+/* Handle */
+.tabmovie ::-webkit-scrollbar-thumb {
+  background: rgb(255, 251, 251);
+}
+
+/* Handle on hover */
+.tabmovie ::-webkit-scrollbar-thumb:hover {
+  background: rgb(255, 252, 252);
+}
